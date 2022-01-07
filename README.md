@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DonTMover
-- 👀 I’m interested in C# C++ Python Node JS JS
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning english , belarusian , russian
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me antantov624@gmail.com
